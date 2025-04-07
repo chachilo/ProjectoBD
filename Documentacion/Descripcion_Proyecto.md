@@ -90,4 +90,3 @@
 - **Base de datos**: PostgreSQL 15 (RDBMS avanzado)  
 - **Lenguaje**: PL/pgSQL (Procedimientos almacenados)  
 - **Herramientas**: pgAdmin 4 (Gestión visual)  
-- **Automatización**: PowerShell (Scripting de tareas)  
