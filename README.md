@@ -1,7 +1,5 @@
 # Sistema de Gestión de Recursos Humanos (HRMS)
 
-![Diagrama ER](documentacion/diagrama_er.png)
-
 Sistema de base de datos completo para la gestión de empleados, departamentos, salarios, beneficios y evaluaciones.
 
 ## Características Clave
