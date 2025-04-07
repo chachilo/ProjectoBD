@@ -1,7 +1,5 @@
 # Modelo Entidad-Relación del Sistema HRMS
 
-![E-R recursos_Humanos](image.png)
-
 ## Entidades Principales
 
 ### 1. Empleados
